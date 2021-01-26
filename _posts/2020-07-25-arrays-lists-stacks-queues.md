@@ -9,8 +9,10 @@ tags: DSA interview-prep
 This post is part of a series on Data Structures and Algorithms (DSA). The series is a collection of notes that I read for interview prep as a refresher from originally learning the concepts in my undergrad. So while the concepts covered in these posts can be a good first-entry into DSA, some concepts are touched on in passing and the deep levels of detail (beyond that which is necessary as a job-hunt refresher) are largely ommitted.
 
 The `DSA` tag can be used to find other blog posts on DSA concepts.
+
 # Arrays
-----------
+
+
 
 Arrays are the most basic Data Structure in Computer Science. An array is a contiguous section of memory. 
 
@@ -36,8 +38,8 @@ A 2D array is really a single contiguous 1d array in memory. We know the row siz
 
 - Adding/Removing an element at the end of the array is an **O(1) operation.**
 - Adding/Removing an element in the middle, or at the beginning, of the array is an **O(n) operation** as we have to shift the remaining ‘n’ elements in the array down by one index.
+
 # Lists
-----------
 
 A linked list can be of arbitrary length and can store arbitrary data
 
@@ -56,8 +58,11 @@ To access the *mth* element, it takes *m* operations as one must follow each poi
 - Add & Remove rear/middle: O(n)
 
 **Tail Pointer**
+
 An optional extra. An additional helper pointer which always points to the last element in the list.
+
 This makes adding an element to the rear O(1) as you can directly address the tail pointer, and find the ‘current last element’, and then point both the ‘current last element’ and the tail pointer itself to the ‘new last element’.
+
 Tail pointers do not reduce the time complexity of *removing* elements, as we must traverse through the list to find the n-1th element.
 
 
@@ -113,11 +118,13 @@ A stack follows LIFO (Last in, First out), and a queue follows FIFO (First in, f
 
 ## Stacks
 
-Pushing onto a stack adds an element to the **beginning** (head) ****of the list.
+Pushing onto a stack adds an element to the **beginning** (head) of the list.
+
 Popping off a stack gets the element at the **beginning** (head) of the list.
 
 ## Queues
 
 Enqueuing adds an element to the end of the list
+
 Dequeuing gets the element from the beginning of the list.
 
