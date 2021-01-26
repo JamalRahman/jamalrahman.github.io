@@ -44,7 +44,7 @@ I'm now a good few years out of University; my need to demonstrate a full-stack 
 
 ## Github Pages & Jekyll
 
-I made the decision to get rid of the flashy 'portfolio' style and point my domain to a simple static blog. Fortunately for me, Github has incredible native support for **free, hosted** blogs using Jekyll and Github pages. It really removes all the fuss and allows me to write using simple markdow.
+I made the decision to get rid of the flashy 'portfolio' style and point my domain to a simple static blog. Fortunately for me, Github has incredible native support for **free, hosted** blogs using Jekyll and Github pages. It really removes all the fuss and allows me to write using simple markdown.
 
 There are a couple of ways to get started with Jekyll & Github pages:
 1. Instantiate a clean Jekyll project locally. Push up to a repo at `github.com/username/username.github.io.git`
