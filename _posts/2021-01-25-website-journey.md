@@ -40,7 +40,7 @@ It was around this time that I started wanting to write more and web-dev less. A
 
 ### 2021 and beyond
 
-I'm now a good few years out of University; my need to demonstrate a full-stack engineer skillset has far lessened, and my desire to keep up with DIY-maintaining a Ubuntu VM & keeping up with Node.js is all but dead. To be blunt, I spend half of my day job engineering web apps for large scale deployment of ML models, I don't want to fuss with that stuff when I get home (or when I log off the work laptop while already at home. #justLockdownThings). I just want to write, and share knowledge!
+I'm now a good few years out of University; my need to demonstrate a full-stack engineer skillset has lessened greatly, and my desire to keep up with DIY-maintaining a Ubuntu VM & keeping up with Node.js is all but dead. To be blunt, I spend half of my day job engineering web apps for large scale deployment of ML models, I don't want to fuss with that stuff when I get home (or when I log off the work laptop while already at home. #justLockdownThings). I just want to write, and share knowledge!
 
 ## Github Pages & Jekyll
 
