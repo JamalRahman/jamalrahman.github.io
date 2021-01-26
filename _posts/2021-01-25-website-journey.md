@@ -11,6 +11,8 @@ aside:
 
 TL;DR - Who can be faffed with administrating infrastructure, developing with bulky JS frameworks, and managing deployments? Jekyll on github pages is free, lightweight, and takes my focus off Webdev and back onto writing.
 
+---
+
 I deployed the [first build of my website](https://jamalrahman.co.uk/website-v1/) during the first term of my first year as a CS student at University back in 2015. You'll notice that I landed on my current colour scheme rather quickly (correct as of time of writing).
 
 ![](/assets/images/2021-01-25-website-journey/v1.jpg)
@@ -32,7 +34,7 @@ By second year of my undergrad I realised that tech wouldn't cut it and ported t
 ![](/assets/images/2021-01-25-website-journey/v2.jpg)
 
 
-While the design of this v2 website still slaps, it fits the wrong purpose. As before, it stood as an example of full-stack web development, UX design, and showing a passing familiarity with wider software engineering tooling: unix competency, working with cloud platforms, deplyoment processes.
+While the design of this v2 website still slaps, it fits the wrong purpose. As before, it stood as an example of full-stack web development, UX design, and showing my familiarity with wider software engineering tooling: unix competency, working with cloud platforms, deplyoment processes.
 
 It was around this time that I started wanting to write more and web-dev less, and I first used proxied `blog.jamalrahman.co.uk` to redirect towards a version of the 'Ghost' blogging platform that was deployed on my cluster. Unfortunately I lost the contents of this blog somewhere down the line.
 
