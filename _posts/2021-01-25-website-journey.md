@@ -36,11 +36,11 @@ By second year of my undergrad I realised that tech wouldn't cut it and ported t
 
 While the design of this v2 website still slaps, it fits the wrong purpose. As before, it stood as an example of full-stack web development, UX design, and showing my familiarity with wider software engineering tooling: unix competency, working with cloud platforms, deplyoment processes.
 
-It was around this time that I started wanting to write more and web-dev less, and I first used proxied `blog.jamalrahman.co.uk` to redirect towards a version of the 'Ghost' blogging platform that was deployed on my cluster. Unfortunately I lost the contents of this blog somewhere down the line.
+It was around this time that I started wanting to write more and web-dev less. At first, I proxied `blog.jamalrahman.co.uk` to redirect towards a version of the 'Ghost' blogging platform that was deployed on my cluster. Unfortunately I lost the contents of this blog somewhere down the line, as I inevitably got cold feet. But the general idea was there.
 
 ### 2021 and beyond
 
-I'm now a few good years out of University; my need to demonstrate a full-stack engineer skillset is far lessened, and my desire to keep up with DIY-maintaining a Ubuntu VM & keeping up with Node.js is all but dead. To be blunt, I spend my day job deploying ML behind well-architectured web apps, I don't want to fuss with that stuff when I get home (or log off the work laptop. #justLockdownThings). I just want to write, and share knowledge!
+I'm now a good few years out of University; my need to demonstrate a full-stack engineer skillset has far lessened, and my desire to keep up with DIY-maintaining a Ubuntu VM & keeping up with Node.js is all but dead. To be blunt, I spend my day job deploying ML behind rigourously engineered web apps, I don't want to fuss with that stuff when I get home (or when I log off the work laptop while already at home. #justLockdownThings). I just want to write, and share knowledge!
 
 ## Github Pages & Jekyll
 
