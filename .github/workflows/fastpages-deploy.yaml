@@ -1,0 +1,11 @@
+name: fastpages-deploy
+
+on: push
+
+jobs:
+  fastpages-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: convert notebooks to posts
+        uses: fastai/fastpages@master
