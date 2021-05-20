@@ -3,6 +3,7 @@ layout: article
 title: Trees, Binary Trees, and Binary Search
 show_edit_on_github: false
 tags: DSA interview-prep
+cover: https://paper-attachments.dropbox.com/s_15ED02664217C73ABAFFC9BD2192FED4B19AC4EE33613FC4B13C956AC770B84D_1595781841045_image.png
 
 ---
 

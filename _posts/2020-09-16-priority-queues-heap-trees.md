@@ -3,7 +3,7 @@ layout: article
 title: Priority Queues & Heap Trees
 show_edit_on_github: false
 tags: DSA interview-prep
-
+cover: https://paper-attachments.dropbox.com/s_9BC4A5FEE7EF6E63AE48FEADF3EE8E25939F91049D15ACA433ABF0B789142D86_1595860071996_image.png
 ---
 
 This post is part of a series on Data Structures and Algorithms (DSA). The series is a collection of notes that I read for interview prep as a refresher from originally learning the concepts in my undergrad. So while the concepts covered in these posts can be a good first-entry into DSA, some concepts are touched on in passing and the deep levels of detail (beyond that which is necessary as a job-hunt refresher) are largely ommitted.

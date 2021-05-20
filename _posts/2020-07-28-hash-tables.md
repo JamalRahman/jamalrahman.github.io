@@ -3,6 +3,7 @@ layout: article
 title: Hash Tables
 show_edit_on_github: false
 tags: DSA interview-prep
+cover: https://he-s3.s3.amazonaws.com/media/uploads/0e2c706.png
 
 ---
 

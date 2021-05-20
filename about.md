@@ -4,12 +4,16 @@ title:
 key: page-about
 ---
 
-![](/assets/images/avatar.jpg){:.circle.image--md style="float:left; margin-right: 1.5em"}
+![](/assets/images/avatar.jpg){:.circle.image--md style="float:right; margin-left: 3em; margin-bottom: 10em"}
 
-I'm Jamal - a British Computer Scientist, amateur cook, and overall tech enthusiast.
+Hi, I'm Jamal 👋🏽
 
-I'm a full-stack Machine Learning Engineer. I love building interesting and innovative platforms from inception to delivery; delving through state of the art research to engineering robust training pipelines and MLOps architectures. I've previously worked at IBM, but currently you'll find me building NLP & Information Retrieval systems at [Captify](https://www.captify.co.uk).
+I'm a Computer Scientist, amateur game developer, and Machine Learning advocate.
 
-I write here about Computer Science, Machine Learning, Artificial Intelligence, and more.
+🔭 I’m currently a Machine Learning Engineer at [Captify](https://www.captify.co.uk), building out NLP & IR systems, and developing our semantic understanding of search data.
 
-Read up on my technical work on [Github](https://github.com/jamalrahman) and find me on [LinkedIn](https://www.linkedin.com/in/jamal-rahman/).
+🌱 My AI passions are fundamentally split between NLP & Information retrieval, and AI for simulation. I'm a sucker for AI applications in interactive media, simulating the social sciences, and procedural generation.
+
+💻 You'll probably find me playing in Unity, testing game mechanic ideas!
+
+Catch me on [Github](https://github.com/jamalrahman) and on [LinkedIn](https://www.linkedin.com/in/jamal-rahman/)!

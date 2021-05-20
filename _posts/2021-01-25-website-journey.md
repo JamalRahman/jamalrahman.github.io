@@ -6,6 +6,7 @@ tags: personal
 subtitle: A big test
 aside:
     toc: false
+cover: /assets/images/2021-01-25-website-journey/cover.jpg
 ---
 ### From Ruby, to Node.js, to Github pages
 
