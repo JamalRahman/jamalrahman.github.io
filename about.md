@@ -4,7 +4,7 @@ title:
 key: page-about
 ---
 
-![](/assets/images/avatar.jpg){:.circle.image--md style="float:right; margin-left: 3em; margin-bottom: 10em"}
+![](/assets/images/avatar.jpg){:.circle style="max-width: 25%; width:15em; float:right; margin-left: 3em; margin-bottom: 10em; margin-top: 1em"}
 
 Hi, I'm Jamal 👋🏽
 
